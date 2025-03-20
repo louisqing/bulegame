@@ -5524,13 +5524,13 @@
   position:absolute;
   left:0px;
   top:-5px;
-  width:496px;
+  width:924px;
   height:10px;
 }
 #u1386_seg1 {
   border-width:0px;
   position:absolute;
-  left:486px;
+  left:914px;
   top:-5px;
   width:10px;
   height:400px;
@@ -5538,9 +5538,9 @@
 #u1386_seg2 {
   border-width:0px;
   position:absolute;
-  left:486px;
+  left:914px;
   top:385px;
-  width:496px;
+  width:68px;
   height:10px;
 }
 #u1386_seg3 {
@@ -5554,8 +5554,8 @@
 #u1386_text {
   border-width:0px;
   position:absolute;
-  left:441px;
-  top:187px;
+  left:636px;
+  top:-8px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
